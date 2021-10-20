@@ -4,15 +4,15 @@
     box-sizing: border-box;
 }
 body {
-    background-color: #4f1408;
+    background-color: #e8e5e5;
     font-family: Arial, Helvetica, sans-serif;
-    color:#08434f;
+    color:#8e7e7d;
     text-align: center;
 }
 
 a {
     text-decoration: none;
-    color: #08434f;
+    color: #8e7e7d;
 }
 
 header {
@@ -57,4 +57,14 @@ footer nav ul li {
     list-style-type: none;
     display: inline;
     padding: 2vw 0;
+}
+
+.analysis ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 3vw 0;
+}
+
+.howto {
+    display: block;
 }
